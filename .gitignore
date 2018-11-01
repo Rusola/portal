@@ -1,0 +1,7 @@
+node_modules
+errorShots
+.idea
+.git
+allure-reports
+allure-report
+allure-results
