@@ -1,0 +1,21 @@
+{
+  "name": "portal",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "wdio wdio.conf.js"
+  },
+  "author": "Olga",
+  "license": "ISC",
+  "devDependencies": {
+    "chai": "^4.2.0",
+    "wdio-allure-reporter": "^0.8.2",
+    "wdio-mocha-framework": "^0.6.3",
+    "wdio-selenium-standalone-service": "0.0.10",
+    "webdriverio": "^4.14.0"
+  },
+  "dependencies": {
+    "exceljs": "^1.6.2"
+  }
+}
